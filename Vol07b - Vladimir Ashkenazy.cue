@@ -1,4 +1,4 @@
-PERFORMER "Great Pianists of the 20th Century"
+PERFORMER "Great Pianists of the 20th Century Vol 07 Vladimir Ashkenazy CD2"
 TITLE "Vol7  -  Vladimir Ashkenazy Cd2"
 FILE "Vol07b - Vladimir Ashkenazy.mp3" MP3
   TRACK 01 AUDIO

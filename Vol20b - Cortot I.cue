@@ -1,5 +1,5 @@
-PERFORMER "Cortot"
-TITLE "Great Pianists of the 20th Century 2"
+PERFORMER "Robert Schumann"
+TITLE "Great Pianists of the 20th Century Vol 20 Alfred Cortot CD2"
 FILE "Vol20b - Cortot I.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Op13 Symphonic Etude 01"

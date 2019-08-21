@@ -1,5 +1,5 @@
-PERFORMER "Frantz Liszt"
-TITLE "Great Pianists Jorge Bolet II"
+PERFORMER "Franz Liszt"
+TITLE "Great Pianists of the 20th Century Vol 11 Jorge Bolet II CD1"
 FILE "Vol11a - Jorge Bolet II.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Mephisto Waltz n°1"

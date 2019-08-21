@@ -1,5 +1,5 @@
 PERFORMER "Various"
-TITLE "Great Pianists of the 20th Century - vol. 5 - Claudio Arrau 2"
+TITLE "Great Pianists of the 20th Century Vol 5 Claudio Arrau II CD2"
 FILE "Vol05b - Arrau II.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Fantaisie in F minor, Op. 49"

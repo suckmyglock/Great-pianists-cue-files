@@ -1,5 +1,5 @@
-PERFORMER "Liszt"
-TITLE "Great pianists - Jorge Bolet II Cd 2-2"
+PERFORMER "Franz Liszt"
+TITLE "Great pianists of the 20th Century Vol 11 Jorge Bolet II CD1"
 FILE "Vol11b - Jorge Bolet II.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Rigoletto Paraphrase"
@@ -27,4 +27,5 @@ FILE "Vol11b - Jorge Bolet II.mp3" MP3
     INDEX 01 46:38:00
   TRACK 09 AUDIO
     TITLE "Réminiscences de Don Juan"
+	PERFORMER "Wolfgang Amadeus Mozart"
     INDEX 01 57:36:00

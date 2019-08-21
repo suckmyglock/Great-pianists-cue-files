@@ -1,5 +1,5 @@
-PERFORMER "Van Cliburn"
-TITLE "Great Pianists Of The 20th Century - Disk 1"
+PERFORMER "Sergei Rachmaninoff"
+TITLE "Great Pianists Of The 20th Century Vol 19 Van Cliburn CD1"
 FILE "Vol19a - Cliburn.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Piano Concerto Number 3 - I. Allegro Ma Non Tanto"

@@ -1,5 +1,5 @@
-PERFORMER "GYÖRGY CZIFFRA"
-TITLE "Great Pianist 20th Century - CD2"
+PERFORMER "Frederic Chopin"
+TITLE "Great Pianists of the 20th Century Vol 23 GYÖRGY CZIFFRA CD2"
 FILE "Vol23b - Cziffra.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Etudes Op 10 No 1 in C"

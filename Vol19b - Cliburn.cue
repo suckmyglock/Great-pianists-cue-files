@@ -1,5 +1,5 @@
 PERFORMER "Van Cliburn"
-TITLE "Great Pianists Of The 20th Century - Disk 2"
+TITLE "Great Pianists Of The 20th Century Vol 19 Van Cliburn CD2"
 FILE "Vol19b - Cliburn.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Piano Concerto No. 1 In B Flat Minor, Opus 23 - I...."

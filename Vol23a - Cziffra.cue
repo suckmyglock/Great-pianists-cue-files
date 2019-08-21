@@ -1,5 +1,5 @@
-PERFORMER "GYÖRGY CZIFFRA"
-TITLE "Great Pianist 20th Century - CD1"
+PERFORMER "Franz Liszt"
+TITLE "Great Pianists of the 20th Century Vol 23 GYÖRGY CZIFFRA CD1"
 FILE "Vol23a - Cziffra.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Polonaise No 2 in E"

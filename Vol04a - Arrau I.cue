@@ -1,5 +1,5 @@
 PERFORMER "Claudio Arrau"
-TITLE "Greatest Pianists of the 20th Century (Disc 1)"
+TITLE "Greatest Pianists of the 20th Century Vol 4: Claudio Arrau CD1"
 FILE "Vol04a - Arrau I.mp3" MP3
   TRACK 01 AUDIO
     TITLE "Islamey"
